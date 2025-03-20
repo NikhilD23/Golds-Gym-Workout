@@ -1,74 +1,24 @@
-<<<<<<< HEAD
-# Golds-Gym-Workout
-=======
-# Getting Started with Create React App
+**Golds-Gym-Workout**
+**
+This is a react application to take a look at different kind of exercises you can do to keep your self fit.
+**
+![image](https://github.com/user-attachments/assets/5c9fbaf6-fb9e-497c-a0eb-cad26e8803b8)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**You can search for a body part for which you want to see different exercises which can target that particular muscle, or you can even search by a exercise name, or any particular equipment.
 
-## Available Scripts
+You can click on the different body parts card given in the website to see exercises for that bodypart.**
 
-In the project directory, you can run:
+![image](https://github.com/user-attachments/assets/23a9197b-e43f-457a-ab40-2ce80e1f1800)
 
-### `npm start`
+![image](https://github.com/user-attachments/assets/de48aaa7-da9c-4306-a686-5450c2aee535)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**
+Click on any particuar exercise to more know about it, and also get few youtube videos for that exercise to see how to perform that exerise.**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![image](https://github.com/user-attachments/assets/00efce7f-1dbd-4d98-be61-dfdfb36cfec8)
 
-### `npm test`
+![image](https://github.com/user-attachments/assets/5b135e33-d1c3-4c80-a593-a193deb9ff82)
+**
+You can also see exercises for the current exercise opened, which target the same muscle or use the same equipment.**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> dc2b064 (Initial Commit)
+![image](https://github.com/user-attachments/assets/445cdee5-48ab-4268-a8d7-96b684bea1e7)
